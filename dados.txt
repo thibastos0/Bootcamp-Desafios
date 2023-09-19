@@ -1,0 +1,57 @@
+{
+  "id": 2999,
+  "name": "Gamora da Silva",
+  "account": {
+    "id": 3172,
+    "number": "06066-4",
+    "agency": "7535",
+    "balance": 0,
+    "limit": 1000
+  },
+  "card": {
+    "id": 2902,
+    "number": "**** **** **** 7536",
+    "limit": 500
+  },
+  "features": [],
+  "news": []
+}
+
+
+{
+  "id": 3000,
+  "name": "Nebula da Silva",
+  "account": {
+    "id": 3173,
+    "number": "06066-6",
+    "agency": "7535",
+    "balance": 0,
+    "limit": 1000
+  },
+  "card": {
+    "id": 2903,
+    "number": "**** **** **** 7537",
+    "limit": 500
+  },
+  "features": [],
+  "news": []
+}
+
+{
+  "id": 3001,
+  "name": "Thanos da Silva",
+  "account": {
+    "id": 3174,
+    "number": "06066-0",
+    "agency": "7535",
+    "balance": 0,
+    "limit": 1000
+  },
+  "card": {
+    "id": 2904,
+    "number": "**** **** **** 7538",
+    "limit": 500
+  },
+  "features": [],
+  "news": []
+}
