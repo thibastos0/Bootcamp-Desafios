@@ -3,3 +3,8 @@
 # 2. Trabalhar com as informações do arquivo, retirando a API do processo, e transformar os dados;
 # 3. Armazer os dados transformados em outra planilha ou banco de dados ou json etc.
 
+import pandas as pd
+
+tabela = pd.read_excel("colisao_com_aves.xlsx")
+
+
