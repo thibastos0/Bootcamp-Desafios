@@ -6,7 +6,7 @@ DIO | Desafio - Crie seu próprio ETL.
 > Pequena é a parte da vida que vivemos, pois todo restante não é vida mas tempo.
 \- Sêneca
 
-Acompanhamento das atividades e aulas realizadas -> [![aulas.md](https://github.com/thibastos0/Bootcamp-Desafios/blob/main/aulas.md)
+Acompanhamento das atividades e aulas realizadas -> [aulas.md](https://github.com/thibastos0/Bootcamp-Desafios/blob/main/aulas.md)
 
 ## 😎🔗 Conecte-se comigo
 
