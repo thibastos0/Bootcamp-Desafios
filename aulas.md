@@ -21,5 +21,13 @@ Extraídas informações de colisão com aves desde o ano de 2022 até 14/09/202
 
 |Arquivo|Descrição|
 |:-----:|:-----|
-|*desafio_exercucui.py* | Demonstrando alguns dos tipos de dados em Python (int, float etc.)|
+|*desafio_exercicio_ETL.py* | Demonstrando alguns dos tipos de dados em Python (int, float etc.)|
 
+## Atividade 03
+**Desafio de Código**
+
+- Aperfeiçoe Sua Lógica e Pensamento Computacional
+
+|Arquivo|Descrição|
+|:-----:|:-----|
+|*desafio_exercicio_01.py* | Cálculo de salário: (valor bruto do salário - percentual de imposto mediante ao salário + adicional dos benefícios)|
