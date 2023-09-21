@@ -30,4 +30,4 @@ Extraídas informações de colisão com aves desde o ano de 2022 até 14/09/202
 
 |Arquivo|Descrição|
 |:-----:|:-----|
-|*desafio_exercicio_01.py* | Cálculo de salário: (valor bruto do salário - percentual de imposto mediante ao salário + adicional dos benefícios)|
+|*desafio_exercicio_01.py* | Cálculo de salário: (valor bruto do salário - percentual de imposto mediante ao salário + adicional dos benefícios) - exercício 0; Saldo atualizado - exercício 1; lista ordenada de produtos - exercício 2; saque - exercício 3; juros compostos - exercício 4 e depósito - exercício 5.| 
