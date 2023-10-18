@@ -16,12 +16,12 @@ Foram inseridos novos dados (dados.txt) usando a API [Swagger](https://sdw-2023-
 ## Atividade 02
 **Desafio ETL com Python**
 
-- Origem dos dados -> [CENIPA - Painel SIPAER](https://painelsipaer.cenipa.fab.mil.br/)
-Extraídas informações de colisão com aves desde o ano de 2022 até 14/09/2023.
+- Origem dos dados -> [SIGCEA](https://sigcea.decea.mil.br/#/)
+Extraídas informações de colisão com aves desde o ano de 2022 até 17/10/2023.
 
 |Arquivo|Descrição|
 |:-----:|:-----|
-|*desafio_exercicio_ETL.py* | Demonstrando alguns dos tipos de dados em Python (int, float etc.)|
+|*desafio_exercicio_ETL.py* | O arquivo `colisao_com_aves.xlsx` extraído do site citado acima recebe algumas tratativas iniciais para que o usuário possa escolher um PSNA e receber uma análise de Segurança Operacional do chatGPT. Após a resposta da IA, uma nova planilha é gerada contendo agora somente dados do PSNA escolhido:  `analise_psna.xlsx`.|
 
 ## Atividade 03
 **Desafio de Código**

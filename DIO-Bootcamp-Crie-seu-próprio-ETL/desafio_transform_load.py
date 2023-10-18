@@ -67,4 +67,3 @@ for user in users:
     # Load
     success = update_user(user)
     print(f"User {user['name']} updated? {success}!")
-
